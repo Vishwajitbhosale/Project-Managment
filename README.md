@@ -1,2 +1,2 @@
 # Project-Managment
-Question and Answers of real time project management are provided in this documents.
+Question and Answers of real time project management problems are provided in this documents.
